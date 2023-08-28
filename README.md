@@ -1,7 +1,7 @@
 # Learn-Python-Zero-to-Hero_in_30_days
 This is the Curriculum for "Learn PYTHON in 30 days"
 
-#DAY-1
+# DAY-1
 
 PYTHON-INTRO
 PYTHON-SYNTAX
@@ -11,5 +11,5 @@ PYTHON-DATATYPES
 PYTHON-NUMBERS
 PYTHON-CASTING
 
-#Day-2
+# Day-2
 
