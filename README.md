@@ -11,3 +11,5 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 #PYTHON-NUMBERS
 #PYTHON-CASTING
 
+#Day-2
+
