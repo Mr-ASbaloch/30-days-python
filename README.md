@@ -3,7 +3,7 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 
 # DAY-1
 
-1-PYTHON-INTRO
+                                    # 1-PYTHON-INTRO
 
 2-PYTHON-SYNTAX
 
@@ -21,7 +21,7 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 
 # Day-2
 
-# Python-String
+                                      # Python-String
 
 1- INTRO
 
