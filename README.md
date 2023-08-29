@@ -17,5 +17,36 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 
 7-PYTHON-CASTING
 
+# Exercise 
+
 # Day-2
+
+# Python-String
+
+1- INTRO
+
+2- SLICING STRING
+
+3- MODIFYING STRING
+
+4- FORMATING STRING 
+
+5- STRING METHODS
+
+  i - capitalize
+
+  i - count
+
+  ii - center
+
+  iii - format
+
+  iv - join
+
+  v - replace
+   
+6- ESCAPE CHARACTER IN STRING
+
+# Exercise 
+
 
