@@ -50,3 +50,38 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 # Exercise 
 
 
+                                                         Day-3
+
+ # Python Lists
+
+1- INTRO
+
+2- Modify List Items
+
+3- Access List Items
+
+  i-  Change List Items
+
+ ii-  Add List Items
+
+ iii- Remove List Items
+
+4- Loop Lists
+
+5- List Comprehension
+
+6- Sort Lists
+
+7- List Methods
+
+  i - append()
+
+  ii - clear()
+
+  iii - pop()
+
+  iv - reverse()
+
+  v-    extend()
+
+  # Exercise
