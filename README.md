@@ -82,6 +82,6 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 
   iv - reverse()
 
-  v-    extend()
+  v-  extend()
 
   # Exercise
