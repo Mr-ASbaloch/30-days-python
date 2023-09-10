@@ -92,3 +92,5 @@ This is the Curriculum for "Learn PYTHON in 30 days"
 # python tuples 
 
 1. intro 
+
+2. tuple methods 
